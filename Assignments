@@ -1,0 +1,6 @@
+Assignment:
+	1. download the IMDB review dataset
+	2. perform necessary preprocessing
+	3. convert data into vector (OHE,word2vec,BOW)
+	4. create a model(RNN, LSTM, GRU) use keras libray if comfortable with pytorch use pytorch
+  5. check the performance which model is best
